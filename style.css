@@ -1,0 +1,140 @@
+img {
+
+    height: 170px;
+    border-radius: 360px;
+    border: 1px rgb(0, 0, 0) solid;
+    box-shadow: 4px -2px rgb(29, 29, 29)
+
+}
+
+#toptext {
+    color: white;
+    }
+
+#top {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-style: oblique;
+    width: auto;
+    height: 40px;
+    background-color: black;
+}
+
+#text {
+    
+    background-color: rgb(217, 217, 217);
+    width: 500px;
+    height: 50px;    
+}
+
+#text2 {
+
+    background-color: rgb(217, 217, 217);
+    width: 500px;
+    height: 50px;
+}
+
+button {
+
+border: 0px;
+
+padding: 2px;
+
+background-color: rgb(149, 150, 160);
+
+size: auto;
+}
+
+button:hover {
+    cursor: pointer;
+
+}
+
+#insta {
+
+height: 50px;
+width: 50px;
+size: auto;
+
+padding: 2px;
+
+border: 0px;
+
+
+}
+
+#linkedin {
+
+height: 50px;
+width: 50px;
+size: auto;
+
+padding: 2px;
+
+border: 0px;
+
+
+}
+
+#git {
+
+height: 50px;
+width: 50px;
+size: auto;
+
+padding: 2px;
+
+border: 0px;
+
+
+}
+
+#pic {
+
+    margin-left: 55px;
+    margin-top: 20px;
+}
+
+#uno {
+
+    margin-right: 20px;
+    margin-left: 40px;
+}
+
+
+#buttons {
+    display: inline-block;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 0%;
+    background-color: rgb(149, 150, 160);
+}
+
+body {
+
+    background-color: rgb(149, 150, 160);
+
+}
+
+h1{
+    font-size: 40px;
+
+}
+
+h2{
+
+    font-size: 30px;
+
+}
+
+p{
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+a{
+
+    color:black;
+
+}
